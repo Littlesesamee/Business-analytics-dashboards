@@ -1,19 +1,19 @@
-# Business-analytics-dashboards
-Some Power BI databoard I built 
+# Telecom Churn Analysis
+In this business analysis project, I aim to analyze the specific telecom company's customer churn fact. How bad is it? Which customers we are losing? In which specific locations? 
 
 # Business-analytics Dashboard (Power BI)
-**What it shows:** Monthly sales, YOY growth, top categories, and regional performance and so on ....
+**What it shows:** Contract type, Churn demographic, groups and categories, some insights and so on ....
 
 **Tech:** Power BI (DAX, model relationships), Power Query (data cleanup)
 
 **Highlights**
-- Forecasts next 3 months (Auto/Manual Forecast)
-- Top 5 categories dynamic ranking
+- Analyze the churn customer's demographic characteristics
+- Can filter specific contract type
 - Drill-through to region and store
 - ....
 
 **Open it**
-1. Download `report.pbix`
+1. Download `Churn_Project_Dashboard.pbix`
 2. Open in Power BI Desktop (Version: 2024+)
 3. (Optional) Replace `data/` CSV paths in Power Query
 
